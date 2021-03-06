@@ -1,8 +1,5 @@
-# Quickreview
-Harvardx CS50W Project1
 
-
-This web application is project 1 of HarvardX: CS50W Web Programming with Python and JavaScript.
+This web application is project  - Web Programming with Python and JavaScript.
 
 It's a book review website that allows users to register, log in, search for books, leave reviews, and access reviews by other users. 
 
