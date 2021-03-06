@@ -1,5 +1,5 @@
 
-This web application is project  - Web Programming with Python and JavaScript.
+Web application project  - Web Programming with Python and JavaScript.
 
 It's a book review website that allows users to register, log in, search for books, leave reviews, and access reviews by other users. 
 
